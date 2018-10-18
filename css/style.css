@@ -1,0 +1,11 @@
+.tarea{
+    width: 100%;
+}
+
+.borrarTarea{
+    font-weight: bold;
+    float: right;
+    cursor: pointer;
+    color: red;
+    
+}
